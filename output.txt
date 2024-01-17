@@ -1,0 +1,10 @@
+Job: Job9	End Date: 2024-01-18	Overall Progress: 56.2857%
+Job: Job8	End Date: 2024-01-21	Overall Progress: 59.9167%
+Job: Job1	End Date: 2024-01-23	Overall Progress: 45.3846%
+Job: Job4	End Date: 2024-01-24	Overall Progress: 29.8182%
+Job: Job3	End Date: 2024-01-26	Overall Progress: 53.3333%
+Job: Job6	End Date: 2024-01-28	Overall Progress: 48.1%
+Job: Job2	End Date: 2024-01-30	Overall Progress: 69.25%
+Job: Job5	End Date: 2024-01-30	Overall Progress: 61.2778%
+Job: Job10	End Date: 2024-01-5	Overall Progress: 62.9375%
+Job: Job7	End Date: 2024-01-9	Overall Progress: 42.625%
